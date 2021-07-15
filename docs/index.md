@@ -1,84 +1,68 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Shayue Yan's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Shayue Yan
+A senior student at Brigham Young University -Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<a href="yanshayue@icloud.com">yanshayue@icloud.com</a>
+| <a href="https://www.linkedin.com/in/shayue-yan-4aaa2a1a0/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
+## Education and Skills
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Full academic scholarship with 4.0 GPA
+Bachelor Bachelor of Science in Financial Economics, Minor: Data Science
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+Expected Graduation Date **April 2022**
 
-- 4.0 Major GPA
+- Academic scholarship with 3.8 GPA
+
+- Economics Society, Data Science Society
+- Skills: R (Advanced), Python (Intermediate), MySQLWorkbench (Intermediate)
+- Certifications: Microsoft Office Specialist Certification (2020), Bloomberg (2020) 
+
+
+
 
 
 ## Related Experience
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
+`APR 2020—SEP 2020`
+__Economics Lab Assistant__,Brigham Young University-Idaho, Rexburg, Idaho
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Holding lab hours with students to review materials, answer questions, and provide assistance on assignments.
+- Actively participated in professional development activities, including training sessions and working with the lead teacher and instructional coaches.
+- Conducted weekly research on students’ participation during lab hours and generated report using R and Excel to the lead teacher. 
+
+`AUG 2018 - NOV 2018`
+__Receptionist__, Shangrila Group, Sichuan, China
+- Managed a comprehensive and detailed record of over 700 rooms using XR software, including check-in, client records, orders, and billing with 100% accuracy.
+-	Ran the settlement process for credit and debit card transactions daily and record revenue totals to generate reports for the accounting department. 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+
+
+
+
+
+## Volunteer Experience
+
+`FEB 2017 - JUN 2018`
+__Full-time Volunteer Representative__, The Church of Jesus Christ of Latter-day Saints, Adelaide, Aurtralia
+- Built relationships with strangers and taught more than 1500 lessons in both English and Mandarin languages to people with diverse cultures
+- Assisted in planning activities on a weekly basis, and gave insipring presentations for over 200 guests. 
+- Demonstrated leadership skills by providing guidance, motivation, and establishing strong relationships with coworkers.
+
+
+
 
 
 
