@@ -49,7 +49,10 @@ __Receptionist__, Shangrila Group, Sichuan, China
 
 
 
+###
 
+Maybe below relevant experience you can post any projects youve done and explain them.
+###
 
 
 
