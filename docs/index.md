@@ -49,9 +49,15 @@ __Receptionist__, Shangrila Group, Sichuan, China
 
 
 
+
+
 ###
 
-Maybe below relevant experience you can post any projects youve done and explain them.
+`JAN 2021 - MAR 2021` 
+__Project Experience__,Brigham Young University-Idaho, Rexburg, Idaho
+- Worked with the team to complete an annual financial report analysis, including market value, financial statements, short-term and long-term plans, and industry analysis, etc.
+- Explored the value of individual stocks, makeing charts based on historical data and wrote investment analysis reports
+
 ###
 
 
